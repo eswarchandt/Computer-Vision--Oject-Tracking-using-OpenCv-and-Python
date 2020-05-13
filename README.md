@@ -5,8 +5,15 @@ This project is for those who want to start working with OpenCV for Computer Vis
 Key Concepts: 
 
 1.Optical Flow
+
 2.Dense Optical Flow
+
 3.MeanShift
+
 4.CamShift
+
 5.Single Object Tracking
+
 6.Multi Object Tracking
+
+7.Shi-Tomasi Corner Detection 
